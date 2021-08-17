@@ -1,0 +1,38 @@
+Abi:[{
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+
+CONTRACT_ADDRESS = '0xaAB624dFdf5157789c5b76062B3027d2eaCBfF68'
+
+Transaction hash: 0xd22c5645dc93407ddea5e23d02f964359c78207075cf148573d5f1247f77b250
+
+
