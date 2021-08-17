@@ -1,0 +1,5 @@
+SUDT-ERC20 Proxy contract address: 0x84001E722Eec0bEFe9094a1b68729D7eAD9A20AC
+
+Checking SUDT balance using proxy contract with address: 0x84001E722Eec0bEFe9094a1b68729D7eAD9A20AC...
+
+Corresponding Polyjuice address: 0x45db76e6ed8db3e04d612c5f97603bbf4b94524e
